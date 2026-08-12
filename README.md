@@ -1,1 +1,1 @@
-# HomeSense-Tasks-AI-Engineering
+# Homeeasy-Tasks-AI-Engineering
